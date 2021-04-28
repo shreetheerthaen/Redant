@@ -1,5 +1,6 @@
 # Redant
 Question No: 3
+
 Language Used: Python (3.8)
 
 Cathy works as an editor in a magazine. She is responsible for the games and puzzles
